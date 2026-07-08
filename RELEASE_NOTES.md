@@ -40,3 +40,10 @@ Initial release of the Finance & Investment Banking Portfolio. This version esta
 ### Social Preview
 
 Use a clean banner image (1280×640) with the portfolio title and a dark, professional color scheme. Recommended: navy blue (#1F4E78) background with white text.
+
+---
+
+## NVIDIA Comparable Analysis
+
+Project 02 has been packaged for publication with the revised Excel model, final PDF report, GitHub visuals, source documentation, and LinkedIn-ready assets.
+

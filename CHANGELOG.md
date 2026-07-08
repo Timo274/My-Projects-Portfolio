@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-07-08 — NVIDIA Comparable Analysis Published
+
+- Added complete `02-nvidia-comparable-analysis` project package.
+- Included improved Excel comps model with Cover & Index, Executive Summary, Comps Data, Valuation Bridge, Methodology, and Assumptions & Sources tabs.
+- Added final PDF report, charts, screenshots, publication assets, LinkedIn package, and source documentation.
+- Updated portfolio home page to mark NVIDIA as complete and feature the project.
+
 All notable changes to this portfolio will be documented in this file.
 
 ## [1.0.0] — 2026-07-08

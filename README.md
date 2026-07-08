@@ -37,7 +37,7 @@ This repository showcases hands-on finance and investment banking work products 
 | # | Project | Company | Type | Status |
 |:-:|---------|---------|------|:------:|
 | 01 | [**Visa DCF Valuation**](01-visa-dcf/) | Visa (NYSE: V) | DCF Valuation | ✅ Complete |
-| 02 | [**NVIDIA Comparable Analysis**](02-nvidia-comparable-analysis/) | NVIDIA (NASDAQ: NVDA) | Trading Comps | 🔲 Planned |
+| 02 | [**NVIDIA Comparable Analysis**](02-nvidia-comparable-analysis/) | NVIDIA (NASDAQ: NVDA) | Trading Comps | ✅ Complete |
 | 03 | [**Microsoft Equity Research**](03-microsoft-equity-research/) | Microsoft (NASDAQ: MSFT) | Equity Research | 🔲 Planned |
 | 04 | [**Adobe–Figma M&A Case Study**](04-adobe-figma-ma-case-study/) | Adobe (NASDAQ: ADBE) | M&A Analysis | 🔲 Planned |
 | 05 | [**Apple Financial Dashboard**](05-apple-financial-dashboard/) | Apple (NASDAQ: AAPL) | Dashboard | 🔲 Planned |
@@ -64,6 +64,29 @@ A full investment banking-style DCF valuation of **Visa Inc.** featuring a drive
 **Recommendation:** Neutral / Hold
 
 ➡️ [**View Full Project →**](01-visa-dcf/)
+
+---
+
+## Featured: NVIDIA Comparable Analysis
+
+<div align="center">
+
+[![Excel Model](https://img.shields.io/badge/Excel-Comps%20Model-217346?logo=microsoft-excel&logoColor=white)](02-nvidia-comparable-analysis/model/Nvidia_Comparable_Company_Analysis_Model.xlsx)
+[![PDF Report](https://img.shields.io/badge/PDF-Sell--Side%20Report-1F4E78?logo=adobeacrobatreader&logoColor=white)](02-nvidia-comparable-analysis/report/Nvidia_Comparable_Company_Analysis_Report.pdf)
+
+</div>
+
+A sell-side style comparable company analysis of **NVIDIA Corporation** benchmarking the company against semiconductor, AI infrastructure, memory, networking, and advanced foundry peers. The project includes a trading comps model, valuation bridge, football field, operating diagnostics, and publication assets.
+
+| Metric | Output |
+|--------|------:|
+| Current Share Price | $196.93 |
+| Blended Implied Value / Share | $234.05 |
+| Implied Upside / (Downside) | 18.8% |
+
+**Conclusion:** Fair to modestly undervalued on profitability-adjusted relative valuation
+
+➡️ [**View Full Project →**](02-nvidia-comparable-analysis/)
 
 ---
 
@@ -113,7 +136,14 @@ My-Projects-Portfolio/
 │   ├── images/
 │   └── sources/
 │
-├── 02-nvidia-comparable-analysis/         🔲 Planned
+├── 02-nvidia-comparable-analysis/         ✅ Complete
+│   ├── README.md
+│   ├── model/Nvidia_Comparable_Company_Analysis_Model.xlsx
+│   ├── report/Nvidia_Comparable_Company_Analysis_Report.pdf
+│   ├── charts/
+│   ├── images/
+│   ├── assets/
+│   └── sources/
 ├── 03-microsoft-equity-research/          🔲 Planned
 ├── 04-adobe-figma-ma-case-study/          🔲 Planned
 ├── 05-apple-financial-dashboard/          🔲 Planned
@@ -125,7 +155,7 @@ My-Projects-Portfolio/
 ## Roadmap
 
 - [x] **Visa DCF Valuation** — Investment banking-style DCF with scenarios and football field
-- [ ] **NVIDIA Comparable Analysis** — Peer-based valuation across semiconductor/AI names
+- [x] **NVIDIA Comparable Analysis** — Peer-based valuation across semiconductor/AI names
 - [ ] **Microsoft Equity Research** — Sell-side initiation with price target and recommendation
 - [ ] **Adobe–Figma M&A Case Study** — Accretion/dilution and strategic deal analysis
 - [ ] **Apple Financial Dashboard** — Interactive Python dashboard with live data
