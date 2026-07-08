@@ -123,7 +123,7 @@ A sell-side style comparable company analysis of **NVIDIA Corporation** benchmar
 ```text
 My-Projects-Portfolio/
 │
-├── README.md                              ← You are here
+├── README.md
 ├── LICENSE
 ├── .gitignore
 ├── CHANGELOG.md
